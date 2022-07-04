@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -37,4 +38,10 @@ section {
 .introduction {
     background-image: url(images/bg.png);
     background-repeat: no-repeat;
+}
+
+.description {
+    background-image: url(images/bg2.jfif);
+    background-repeat: no-repeat;
+    background-position: right;
 }
